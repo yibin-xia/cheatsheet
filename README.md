@@ -1,1 +1,1 @@
-Please click [Wiki](Wiki) for all information.
+Please click [Wiki](https://github.com/yibin-xia/cheatsheet/wiki) for all information.
